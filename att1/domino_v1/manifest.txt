@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: edu.csf.oop.java.domino.Main
+Class-Path: libs/logback-classic-1.2.6.jar libs/logback-core-1.2.6.jar libs/slf4j-api-1.7.9.jar
+
+
+
